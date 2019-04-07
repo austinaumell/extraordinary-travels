@@ -1,0 +1,12 @@
+<html>
+    <head>
+             <!!--This is the about us page. -->
+        <title>
+            About us
+        </title>
+    </head>
+    <body>
+        <header>
+            <h1> Who we are! </h1>
+        </header/>
+        

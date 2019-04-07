@@ -1,0 +1,86 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+    background-color: #7C8EA1;
+
+  }
+  body {
+     width: 800px;
+     height: 100%;
+  }
+
+  header {
+      background-color: #22AE5C;
+      padding-left: 50px;
+      border: 5px solid black;
+      font-size: 26px;
+      font-family: 'Franklin Gothic Medium';
+      display: block;
+  }
+  nav {
+      float: left;
+      width: 100%;
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color: ;
+  }
+  section {
+      width: 85%;
+      display: inline-block;
+      float: left;
+      padding-left: 20px;
+      font-family: Calibri; 
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+#view {
+    height: 500px;
+    width: 1000px;
+    padding-top: 20px;
+}
+#hands {
+    height: 500px;
+    width: 1000px;
+}
+#fun {
+   border-style: solid;
+    border-color: black;
+    width: 740px
+}
+#moves {
+    font-family: 'Segoe UI';
+
+}
